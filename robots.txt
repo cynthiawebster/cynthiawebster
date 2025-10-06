@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cynthiawebster.github.io/sitemap.xml
